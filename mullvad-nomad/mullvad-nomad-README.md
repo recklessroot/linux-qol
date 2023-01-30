@@ -4,9 +4,11 @@ Mullvad-Nomad
  It is not a mullvad-vpn-cli replacement, it only automates the country selection and the connection
  
  [Mandatory dependecies]
+
  mullvad-vpn-cli (and an active subscription)
 
  [Recommended dependencies]
+ 
  dunst (an easy app to customize notifications)
  notify-send (included in dunst, can be installed standalone if you hate nice-looking stuff)
 
@@ -32,4 +34,3 @@ Guide
  7. `./mullvad-nomad.sh`
 
  BONUS. Bind the script to a shortcut! Then browse the web as true nomad.
- 

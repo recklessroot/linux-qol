@@ -15,4 +15,5 @@
 
  Overview:
 
-    mullvad-nomad - randomly chooses one of the configured country and connect to a mullvad VPN server in that region
+ mullvad-nomad - Randomly chooses one of the configured country and connect to a mullvad VPN server in that region
+ range         - simple number iterator, almost exactly like the python range() function.
